@@ -1,0 +1,3 @@
+name: EventPipeline
+version: 1.0
+main: com.minebone.eventpipeline.Main
